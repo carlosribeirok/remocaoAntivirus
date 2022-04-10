@@ -1,0 +1,2 @@
+# remocaoAntivirus
+Algoritmo Base
